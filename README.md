@@ -1,6 +1,6 @@
 🔗 LinkLens – Is This Link Safe?
 
-[Give it a try 🌐](https://linklens-secure-url.netlify.app/)
+[LinkLens Advanced URL Security 🌐](https://linklens-secure-url.netlify.app/)
 
 LinkLens is a smart and secure link-checking tool built during the World's Largest Hackathon 2025. It helps users instantly assess whether a URL is safe or potentially malicious—backed by AI and trust signals.
 
